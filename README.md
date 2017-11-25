@@ -1,6 +1,6 @@
-# ta-test
-Test for T. A.
+# T. A. Recruitment test
 
-usage:
-either run with IDE
+## Usage
+either run with IDE or compile with command:
 ### sbt assembly
+and run on spark 2.2 cluster
